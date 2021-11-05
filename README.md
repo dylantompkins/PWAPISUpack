@@ -10,12 +10,10 @@ https://www.curseforge.com/minecraft/mc-mods/guard-villagers
 
 Other
 https://www.curseforge.com/minecraft/mc-mods/extra-boats
-https://www.curseforge.com/minecraft/mc-mods/castle-in-the-sky-the-fairytale-of-laputa
 https://www.curseforge.com/minecraft/mc-mods/emojiful
 https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge
 https://www.curseforge.com/minecraft/mc-mods/drop-the-meat
 https://www.curseforge.com/minecraft/mc-mods/sit
-https://www.curseforge.com/minecraft/mc-mods/corpse
 https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
 https://www.curseforge.com/minecraft/mc-mods/drop-the-meat
 https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn
@@ -26,6 +24,9 @@ https://www.curseforge.com/minecraft/mc-mods/dungeons-gear
 QOL/Optimization
 https://www.curseforge.com/minecraft/mc-mods/jei
 https://www.curseforge.com/minecraft/mc-mods/morpheus
+https://www.curseforge.com/minecraft/mc-mods/trashslot
+https://www.curseforge.com/minecraft/mc-mods/castle-in-the-sky-the-fairytale-of-laputa
+https://www.curseforge.com/minecraft/mc-mods/corpse
 
 Worldgen
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
