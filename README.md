@@ -2,7 +2,7 @@
 a mincraft modpack
 
 Planned mods:
-Village St
+Village Stuff
 https://www.curseforge.com/minecraft/mc-mods/villager-names
 https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge
 https://www.curseforge.com/minecraft/mc-mods/hunterillager
@@ -25,7 +25,7 @@ https://www.curseforge.com/minecraft/mc-mods/dungeons-gear
 
 QOL/Optimization
 https://www.curseforge.com/minecraft/mc-mods/jei
-https://www.curseforge.com/minecraft/mc-mods/spiders-2-0
+https://www.curseforge.com/minecraft/mc-mods/morpheus
 
 Worldgen
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
