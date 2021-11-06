@@ -20,8 +20,6 @@ https://www.curseforge.com/minecraft/mc-mods/extra-boats
 
 https://www.curseforge.com/minecraft/mc-mods/emojiful
 
-https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge
-
 https://www.curseforge.com/minecraft/mc-mods/sit
 
 https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
@@ -29,8 +27,6 @@ https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
 https://www.curseforge.com/minecraft/mc-mods/drop-the-meat
 
 https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn
-
-https://www.curseforge.com/minecraft/mc-mods/naturally-charged-creepers
 
 https://www.curseforge.com/minecraft/mc-mods/dungeons-gear
 
@@ -45,6 +41,8 @@ https://www.curseforge.com/minecraft/mc-mods/trashslot
 https://www.curseforge.com/minecraft/mc-mods/castle-in-the-sky-the-fairytale-of-laputa
 
 https://www.curseforge.com/minecraft/mc-mods/corpse
+
+https://optifine.net/downloads
 
 Worldgen
 
