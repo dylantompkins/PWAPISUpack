@@ -2,15 +2,18 @@
 a mincraft modpack
 
 INSTRUCTIONS:
+
 1.Click the green "Code button" and "Download ZIP"
+
 2.Unpack the ZIP and run the Forge Installer. Choose "Install Client" when it asks.
+
 3.On Windows: Hold Windows Key+R and type "%appdata%\.minecraft"
+
   On Mac: Go to ~/Library/Application Support/minecraft
+
 4.Copy the "mods" folder that was included in PWAPISUPACK into your minecraft directory. Optionally copy "Shaders" too.
+
 5.Run minecraft and choose "Forge 1.16.5" as the version!
-
-
-
 
 
 
