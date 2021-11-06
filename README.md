@@ -11,7 +11,7 @@ INSTRUCTIONS:
 
   On Mac: Go to ~/Library/Application Support/minecraft
 
-4.Copy the "mods" folder that was included in PWAPISUPACK into your minecraft directory. Optionally copy "Shaders" too.
+4.Copy the "mods" folder that was included in PWAPISUPACK into your minecraft directory. Optionally copy "shaderpacks" too.
 
 5.Run minecraft and choose "Forge 1.16.5" as the version!
 
